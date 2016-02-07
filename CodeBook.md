@@ -7,13 +7,36 @@
 ###Data file name
 * tidydata.txt
 
+###Files used to create tidy data
 
-###How data was produced 
-* Roy Sheppard
+- 'features_info.txt': Shows information about the variables used on the feature vector.
 
-###Where was data obtained
- ==================================================================
+- 'features.txt': List of all features.
+
+- 'activity_labels.txt': Links the class labels with their activity name.
+
+- 'train/X_train.txt': Training set.
+
+- 'train/y_train.txt': Training labels.
+
+- 'test/X_test.txt': Test set.
+
+- 'test/y_test.txt': Test labels.
+
+
+
+
+###Aquisition of data  
+* Downloaded original data from:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip   
+
+###Details of non-transformed data
+* Data collected by Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012. 
+* Downloaded data from 
+
 Human Activity Recognition Using Smartphones Dataset
+Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
+
+
 Version 1.0
 ==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
