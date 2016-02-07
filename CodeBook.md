@@ -4,7 +4,11 @@
 ###Prepared by 
 * Roy Sheppard
 
-###How data was produce 
+###Data file name
+* tidydata.txt
+
+
+###How data was produced 
 * Roy Sheppard
 
 ###Where was data obtained
