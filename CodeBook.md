@@ -5,25 +5,12 @@
 * Roy Sheppard
 
 ###Data file name
-* tidydata.txt
-
-###Source Data
-     Full Description of the source data
-     http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-     Human Activity Recognition Using Sartphones Data Set article 
-
-     Data used for the project
-     https://d396qusza40orc.cloudfront.net/getdata/projectfiles/UCI HAR Dataset.zip
-     Downlioad Source Data 
-	
-	* Downloaded original data from:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip   
-
+* summaryHumanActivity.txt
 
 ###Source data  
-* Human Activity Recoginition Using Smart Phone data set:  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+* Human Activity Recoginition Using Smart Phone detailed data set description:  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 * Original data set:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip   
-
 
 
 ##Notes from site on how data obtained: 
@@ -44,7 +31,7 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 
 
 
-###Files used to create tidy data
+###Files used to create summaryHumanActivity.txt
 
 - 'features_info.txt': Shows information about the variables used on the feature vector.
 
