@@ -4,11 +4,9 @@
 ###Steps
 	1.  nsource("run_analysis.R")	2.  run_analysis()
 	3.  The text file created will be in this directory and will be called summaryHumanActivity.txt
-
-# Data
 ##Assumptions
 	1. You have downloaded run_analysis.R to the UCI HAR Dataset
-	2. You have unzipped the downloaded data
+	2. You have unzipped the downloaded data (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 	3. The files features.txt and activity_labels.txt are in the same directory as run_analysis.R
 	4. There is a sub-directory test off of the current directory that contains three files
 		1) subject_text.txt
