@@ -19,6 +19,13 @@
 	* Downloaded original data from:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip   
 
 
+
+
+###Aquisition of data  
+* Downloaded original data from:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip   
+
+
+
 ##Notes from site on how data obtained: 
 ======
 - Features are normalized and bounded within [-1,1].
