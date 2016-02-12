@@ -1,11 +1,11 @@
-## Course project
-## R script to run
-#Steps
+# Course project
+# R script to run
+#@Steps
 	1.  nsource("run_analysis.R")	2.  run_analysis()
 	3.  The text file created will be in this directory and will be called summaryHumanActivity.txt
 
-## Data
-#Assumptions
+# Data
+##Assumptions
 	1. You have unzipped the downloaded data
 	2. You have downloaded run_analysis.R to the UCI HAR Dataset
 	3. lkjfasl;djf
