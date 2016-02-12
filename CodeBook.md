@@ -19,11 +19,10 @@
 	* Downloaded original data from:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip   
 
 
-###Aquisition of data  
-* Human Activity Recoginition Using Smart Phones:  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+###Source data  
+* Human Activity Recoginition Using Smart Phone data set:  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-###Aquisition of data  
-* Downloaded original data from:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip   
+* Original data set:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip   
 
 
 
