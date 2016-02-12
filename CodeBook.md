@@ -7,7 +7,7 @@
 ###Data file name
 * tidydata.txt
 
-#Source Data
+###Source Data
      Full Description of the source data
      http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
      Human Activity Recognition Using Sartphones Data Set article 
@@ -15,6 +15,8 @@
      Data used for the project
      https://d396qusza40orc.cloudfront.net/getdata/projectfiles/UCI HAR Dataset.zip
      Downlioad Source Data 
+	
+	* Downloaded original data from:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip   
 
 
 ##Notes from site on how data obtained: 
