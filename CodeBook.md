@@ -31,14 +31,14 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 
 ###Files used to create summaryHumanActivity.txt
 
-- 'features.txt': List of all features.
-- 'activity_labels.txt': Links the class labels with their activity name.
-- 'train/X_train.txt': Training set.
-- 'train/y_train.txt': Training labels.
-- 'test/X_test.txt': Test set.
-- 'test/y_test.txt': Test labels.
-- 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
-- 'test/subject_test.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+       *  features.txt: List of all features.
+       *  activity_labels.txt: Links the class labels with their activity name.
+       *  train/X_train.txt: Training set.
+       *  train/y_train.txt: Training labels.
+       *  test/X_test.txt: Test set.
+       *  test/y_test.txt: Test labels.
+       *  train/subject_train.txt: Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+       *  test/subject_test.txt: Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
 ### summaryHumanActivity.txt Data Variable Names 
        *  subject  
