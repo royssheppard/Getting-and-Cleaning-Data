@@ -9,11 +9,18 @@
 
 #Source Data
      Full Description of the source data
+     http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
      Human Activity Recognition Using Sartphones Data Set article 
 
      Data used for the project
+     https://d396qusza40orc.cloudfront.net/getdata/projectfiles/UCI HAR Dataset.zip
      Downlioad Source Data 
 
+
+##Notes from site on how data obtained: 
+======
+- Features are normalized and bounded within [-1,1].
+- Each feature vector is a row on the text file.
 
 ##License:
 ========
@@ -63,10 +70,6 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 Human Activity Recognition Using Smartphones Dataset
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
 
-##Notes from site on how data obtained: 
-======
-- Features are normalized and bounded within [-1,1].
-- Each feature vector is a row on the text file.
 
 
 ##Tests
